@@ -1,11 +1,4 @@
-## Hi, its Rishika! 
 
-### About Me
-- 🎓 B.Tech Computer Science & Engineering @ Jorhat Engineering College
-- 🔭 ML Intern @ Feynn Labs, Ex Intern @ Numaligarh Refinery Limited (NRL), The Sparks Foundation
-- 🤖 Contributor @ GSSoC ‘24, Hacktoberfest
-- 🌱 Currently exploring: ML, AI, Python, Data Science
-- ✨ Always learning something new.
 
 ### Digital Badges
 
